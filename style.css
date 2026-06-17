@@ -1,0 +1,55 @@
+*{
+
+    margin: 20px;
+}
+
+#logo{
+color: rgb(54, 54, 54);
+font-family: Arial, Helvetica, sans-serif;
+float: left
+}
+nav{
+    text-align: center;
+    padding-top: 25px;
+}
+
+a{
+    display: inline;
+    text-decoration: none;
+    letter-spacing: 3px;
+}
+
+strong{
+    float: right;
+    margin-top: -45px; 
+    margin-right: 20px;
+    background-color: rgb(175, 208, 222);
+    color: darkblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+div{
+    margin:200px ;
+}
+p{
+    font-weight: 500px;
+    font-size: xx-large;
+    width: 300px;
+}
+#para{
+    font-size: small;
+}
+button{
+    background-color: rgb(152, 201, 220);
+    color: blue;
+    font-weight: bold ;
+    width: 180px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+}
+ img{
+    margin-top: -500px;
+    float: right;
+    margin-right:100px;
+ }
